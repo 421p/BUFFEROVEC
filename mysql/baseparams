@@ -1,0 +1,10 @@
+$domain=getenv('IP');
+$db_name = 'buffer_works';
+$db_user = getenv('C9_USER');
+$db_pass = "";
+$db_loc = '127.0.0.1';
+$db_port = 3306;
+
+
+
+12qwaszxxzsawq21
